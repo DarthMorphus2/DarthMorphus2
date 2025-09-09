@@ -1,4 +1,4 @@
-## It is dangerous to go alone, take this.
+## It is dangerous to go alone! take this.
 
 <!--
 **DarthMorphus2/DarthMorphus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
